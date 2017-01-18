@@ -29,7 +29,20 @@ I start from this type of binding
 https://vimeo.com/81178782   
 I spend some time to try to found the right way to use scribus to manage to have the right page order from printed A4 folded and cuted in a A6 booklet -> passeport.sla then passeport A4.sla is quite ok, I just print the pdf on recto/verso A4. 
 But I would like to have a better fit for the layout and a bit resize it like a passport who is slightly smaller than A6. 
-> Redimensionner format A6 (~15x10 cm) au format légal passeport un poil plus petit (8,8 par 12,5 cm) qui semble être un standard repris aussi pour les carnets moleskin, plus adapté à presque toutes les poches.
+- [x] Redimensionner format A6 (~15x10 cm) au format légal passeport un poil plus petit qui semble être un standard proche aussi des carnets moleskin, plus adapté à presque toutes les poches.   
+Trou de 5mm diam, écart 80mm  
+- ~~81 par 114 mm = format C1 dans inkscape~~ pas facile pour positionner les trous à la perforatrice
+- ~~Taille 84x136mm. 136 correspond au réglage minimum standart de ma perforatrice (réglage 888) et 84 = proportion dorée de 136.~~ Format portrait incompatible avec le type de reliure à vis prévue actuellement. C'est chiant pour écrire, la reliure prend trop de place. 
+- ~~Taille 136x328 ([silver ratio](https://en.wikipedia.org/wiki/Silver_ratio))~~ Trop long
+- ~~Taille 136x220 ([golden ratio](https://en.wikipedia.org/wiki/Golden_ratio))~~ Trop long, 1cm trop grand pour la largeur de l'A4
+- ~~Taille 136x210~~ trop grand, presque A5
+- ~~Carrée, 98x105?~~ Mouais...  
+
+Est-ce que cette reliure par vis est bien la solution? ça semble mieux adapté à des formats plus grands.  
+What if we use only one hole? like a pantonier?
+
+![engineer mini book] ()
+
 
 ### passeport V2 cover
 The cover is lasercutted and sew but the next one will be easier and binded with acounting screw, so it's easier to reorder and add some pages when needed. 
