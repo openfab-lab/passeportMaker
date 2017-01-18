@@ -41,7 +41,7 @@ Trou de 5mm diam, écart 80mm
 Est-ce que cette reliure par vis est bien la solution? ça semble mieux adapté à des formats plus grands.  
 What if we use only one hole? like a pantonier?
 
-![engineer mini book] ()
+![engineer mini book] (https://github.com/openfab-lab/passeportMaker/blob/master/Ref/Engineer%20mini%20notebook%20ref.jpg)
 
 
 ### passeport V2 cover
