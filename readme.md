@@ -31,15 +31,15 @@ I spend some time to try to found the right way to use scribus to manage to have
 But I would like to have a better fit for the layout and a bit resize it like a passport who is slightly smaller than A6. 
 - [x] Redimensionner format A6 (~15x10 cm) au format légal passeport un poil plus petit qui semble être un standard proche aussi des carnets moleskin, plus adapté à presque toutes les poches.   
 Trou de 5mm diam, écart 80mm  
-- ~~81 par 114 mm = format C1 dans inkscape~~ pas facile pour positionner les trous à la perforatrice
+- [x]81 par 114 mm = format C1 dans inkscape. Yes, ça marche avec seulement une seule perforation.
 - ~~Taille 84x136mm. 136 correspond au réglage minimum standart de ma perforatrice (réglage 888) et 84 = proportion dorée de 136.~~ Format portrait incompatible avec le type de reliure à vis prévue actuellement. C'est chiant pour écrire, la reliure prend trop de place. 
 - ~~Taille 136x328 ([silver ratio](https://en.wikipedia.org/wiki/Silver_ratio))~~ Trop long
 - ~~Taille 136x220 ([golden ratio](https://en.wikipedia.org/wiki/Golden_ratio))~~ Trop long, 1cm trop grand pour la largeur de l'A4
 - ~~Taille 136x210~~ trop grand, presque A5
 - ~~Carrée, 98x105?~~ Mouais...  
 
-Est-ce que cette reliure par vis est bien la solution? ça semble mieux adapté à des formats plus grands.  
-What if we use only one hole? like a pantonier?
+~~Est-ce que cette reliure par vis est bien la solution? ça semble mieux adapté à des formats plus grands.~~
+
 
 ![engineer mini book] (https://github.com/openfab-lab/passeportMaker/blob/master/Ref/Engineer%20mini%20notebook%20ref.jpg)
 
