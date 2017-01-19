@@ -46,9 +46,18 @@ Trou de 5mm diam, écart 80mm
 
 ### passeport V2 cover
 The cover is lasercutted and sew but the next one will be easier and binded with acounting screw, so it's easier to reorder and add some pages when needed. 
-![alt text](https://github.com/openfab-lab/passeportMaker/blob/master/contenu/img/2016-09-22%2009.42.05.jpg)   
+![Version 2](https://github.com/openfab-lab/passeportMaker/blob/master/contenu/img/2016-09-22%2009.42.05.jpg)   
+
+
+### passeport V3 - easy in the pocket!
+
+![Version 3.1](https://github.com/openfab-lab/passeportMaker/blob/master/contenu/img/PPv3-1.jpg)   
+![Version 3.2](https://github.com/openfab-lab/passeportMaker/blob/master/contenu/img/PPv3-2.jpg)
+![Version 3.3](https://github.com/openfab-lab/passeportMaker/blob/master/contenu/img/PPv3-3.jpg)  
+
 
 Still need work on the inside layout for pages. For stamp, for the use of it... well it still need a lot of work.
+
 
 
 ## software in use
