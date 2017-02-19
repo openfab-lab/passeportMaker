@@ -40,6 +40,14 @@ Trou de 5mm diam, écart 80mm
 
 ~~Est-ce que cette reliure par vis est bien la solution? ça semble mieux adapté à des formats plus grands.~~
 
+###TodoList
+Les pages à éditer:
+- [x] Credits
+- [ ] badges
+- [ ] [charte](https://github.com/openfab-lab/passeportMaker/blob/master/contenu/charte%20pg2.txt)
+- [x] ID
+- [ ] Tasks (aka github issues)
+- [ ] cheatsList, like this:
 
 ![engineer mini book] (https://github.com/openfab-lab/passeportMaker/blob/master/Ref/Engineer%20mini%20notebook%20ref.jpg)
 
