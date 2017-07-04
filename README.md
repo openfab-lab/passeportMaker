@@ -79,7 +79,10 @@ Template SVG is Cover-laserCut-PP.svg
 ## Step 3
 - Cut pages to keep 2 pages side by side. 
 - Use the punch, place paper to match the cursor and make a hole
-- Finish to cut in pages. 
+- Finish to cut pages. 
+
+![punch](https://user-images.githubusercontent.com/12049360/27840490-b0fb4138-60f9-11e7-9994-0040e1e94128.jpg)  
+![cut](https://user-images.githubusercontent.com/12049360/27840491-b104a87c-60f9-11e7-9163-d77ada5d994d.jpg)  
 
 ## Step 4
 - Assemble everythings. 
