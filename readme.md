@@ -43,7 +43,8 @@ It could be use as:
 * And can embed RFID for advance connectivity
 	* like Automatic activation of tools via log rfid
 	* logging time spent on tools
-* Or many more possibilities... 
+	* check-in into makerspaces
+* And many more possibilities... 
 
 These functions will come with some challenges, of course. But we will discover them and resolved them only by doing it and using it. 
 
@@ -63,7 +64,24 @@ https://www.scribus.net/
 - material for cover. *I use polypropylène 0.8mm (PP)  
 - Paper A4 to print pages. Any gr/m² could do. *I use simple 80gr/m²
 - scissors, cutter or even better a trimmer. [*I use this](http://www2.fiskars.com/Products/Crafting-and-Sewing/Paper-Trimmers/SureCut-Deluxe-Craft-Paper-Trimmer-12)
+- And a hole punch. 
 
+## Step 1
+LasetCut the cover in the material of your choice  
+Template SVG is Cover-laserCut-PP.svg
 
+## Step 2
+- Open template PageSet1.pdf and fill in your name, photo and shit.  
+- Print it on A4 without scaling....  
+- Print PageSetCredit.svg, still without scaling....
+- and also a couple of times PageSetFocusList.svg and PageSetProtostep1.svg Too
 
+## Step 3
+- Cut pages to keep 2 pages side by side. 
+- Use the punch, place paper to match the cursor and make a hole
+- Finish to cut in pages. 
 
+## Step 4
+- Assemble everythings. 
+
+note: use a bit of Ptfe Thread Sealling Tape to avoid loose screw. 
