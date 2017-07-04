@@ -4,7 +4,7 @@
 Passeport Maker de OpenFab Brussels est mis à disposition selon les termes de la [licence](/LICENCE.md) Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.
 Fondé(e) sur une œuvre à https://noisebridge.net/wiki/Passport.
 
-html code to add on site:
+*html code to add on website:*
 ```
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Passeport Maker</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/openfab-lab/passeportMaker" property="cc:attributionName" rel="cc:attributionURL">OpenFab Brussels</a> est mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.<br />Fondé(e) sur une œuvre à <a xmlns:dct="http://purl.org/dc/terms/" href="https://noisebridge.net/wiki/Passport" rel="dct:source">https://noisebridge.net/wiki/Passport</a>
 ```
@@ -68,17 +68,17 @@ https://www.scribus.net/
 
 ## Step 1
 LasetCut the cover in the material of your choice  
-Template SVG is Cover-laserCut-PP.svg
+Template SVG is [Cover-laserCut-PP.svg](/00template/Cover-laserCut-PP.svg)
 
 ## Step 2
-- Open template PageSet1.pdf and fill in your name, photo and shit.  
+- Open /00template/[PageSet1.pdf](/00template/PageSet1.pdf) and fill in your name, photo and shit.  
 - Print it on A4 without scaling....  
 - Print PageSetCredit.svg, still without scaling....
 - and also a couple of times PageSetFocusList.svg and PageSetProtostep1.svg Too
 
 ## Step 3
 - Cut pages to keep 2 pages side by side. 
-- Use the punch, place paper to match the cursor and make a hole
+- Use the punch, place paper to match the pinkish cursor and make a hole
 - Finish to cut pages. 
 
 ![punch](https://user-images.githubusercontent.com/12049360/27840490-b0fb4138-60f9-11e7-9994-0040e1e94128.jpg)  
@@ -88,3 +88,8 @@ Template SVG is Cover-laserCut-PP.svg
 - Assemble everythings. 
 
 note: use a bit of Ptfe Thread Sealling Tape to avoid loose screw. 
+
+# THAT'S IT!
+Now, go make something else!  
+
+![win](https://user-images.githubusercontent.com/12049360/27840612-afea8c30-60fa-11e7-80d7-c906b395558e.jpg)
