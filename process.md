@@ -23,19 +23,19 @@ Les pages à éditer:
 - [ ] Tasks (linked to github issues)
 - [ ] cheatsheets, for exemple like this:
 
-![engineer mini book] (https://github.com/openfab-lab/passeportMaker/blob/master/Ref/Engineer%20mini%20notebook%20ref.jpg)
+![engineer mini book] (/REFERENCE/Engineer%20mini%20notebook%20ref.jpg)
 
 
 ### passeport V2 cover
 The cover is lasercutted and sew but the next one will be easier and binded with acounting screw, so it's easier to reorder and add some pages when needed. 
-![Version 2](https://github.com/openfab-lab/passeportMaker/blob/master/contenu/img/2016-09-22%2009.42.05.jpg)   
+![Version 2](/REFERENCE/PIC/2016-09-22%2009.42.05.jpg)   
 
 
 ### passeport V3 - easy in the pocket!
 
-![Version 3.1](https://github.com/openfab-lab/passeportMaker/blob/master/contenu/img/PPv3-1.jpg)   
-![Version 3.2](https://github.com/openfab-lab/passeportMaker/blob/master/contenu/img/PPv3-2.jpg)
-![Version 3.3](https://github.com/openfab-lab/passeportMaker/blob/master/contenu/img/PPv3-3.jpg)  
+![Version 3.1](REFERENCE/PIC/PPv3-1.jpg)    
+![Version 3.2](REFERENCE/PIC/PPv3-2.jpg)  
+![Version 3.3](REFERENCE/PIC/PPv3-3.jpg)   
 
 
 Still need work on the inside layout for pages. For stamp, for the use of it... well it still need a lot of work.
