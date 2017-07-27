@@ -51,7 +51,13 @@ These functions will come with some challenges, of course. But we will discover 
 Actually, I use it everyday and show it to everybody. It's part of a bigger plan, a bigger WIP, [a gamification of the fablab](https://github.com/openfab-lab/openfab/wiki) 
 *sorry, still mostly in french*
 
-# How to MAKE it 
+# How to MAKE it
+
+> We strongly advice you to document the realization of your own passport, even more if you decide to do some modifications compared to what we are proposing here. This is an iteration and by collaborating we will certainly make it even better than it is currently. So take pictures, explain your choices, ...
+>
+> Good documentation is key to the success of any project. Making documentation accessible enables people to learn about a project; making it easy to update ensures that documentation stays relevant. Furthermore, it's key in any opensource project, it allows contribution, further development, ...  
+>
+> If you are currently following our [guide to become an OpenFab SuperUser](https://github.com/Ginsburg/gamification-fablab/blob/guide-superuser/Level-UP/guide-superuser.md), documenting the realization is part of the job: to make you learn how to do it, to show you how important it is. If you need some help to do so, click [here](https://github.com/Ginsburg/gamification-fablab/edit/guide-superuser/Level-UP/document-passport.md).
 
 **software in use**  
 * inkscape for vector
