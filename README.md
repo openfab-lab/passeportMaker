@@ -98,7 +98,7 @@ note: use a bit of Ptfe Thread Sealling Tape to avoid loose screw.
 # THAT'S IT!
 Now, go make something else!  
 
-> _For those following our guide to become SuperUser, next step is: [Document the realization of your maker passport on your repository](document-passport.md)._  
-> _Click [here](guide-superuser.md) to come back to the guide._  
+> _For those following our guide to become SuperUser, next step is: [Document the realization of your maker passport on your repository](https://github.com/Ginsburg/gamification-fablab/blob/guide-superuser/Level-UP/document-passport.md)._  
+> _Click [here](https://github.com/Ginsburg/gamification-fablab/blob/guide-superuser/Level-UP/guide-superuser.md) to come back to the guide._  
 
 ![win](https://user-images.githubusercontent.com/12049360/27840612-afea8c30-60fa-11e7-80d7-c906b395558e.jpg)
