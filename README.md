@@ -51,6 +51,8 @@ These functions will come with some challenges, of course. But we will discover 
 Actually, I use it everyday and show it to everybody. It's part of a bigger plan, a bigger WIP, [a gamification of the fablab](https://github.com/openfab-lab/openfab/wiki) 
 *sorry, still mostly in french*
 
+see also the process in [**first development notes**](https://github.com/openfab-lab/passeportMaker/blob/master/process.md)
+
 # How to MAKE it 
 
 **software in use**  
